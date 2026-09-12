@@ -9,7 +9,7 @@ physical systems they model.
 (plasma turbulence simulations, MPI/OpenACC) at EPFL's Swiss Plasma
 Center, and now propulsion modeling and simulations.
 
-Here you can find a few small projects I enjoyed doing between jobs, my main contributions have been in proprietary software that can't be made public.
+**Here you can find a few small projects I enjoyed doing between jobs, my main contributions have been in proprietary software that can't be made public.**
 
 PhD, Physics (Fusion Science & Engineering) · Python / C++ / Fortran ·
 MPI · OpenMP · CUDA · FEM · PDEs · Monte Carlo methods · optimization
